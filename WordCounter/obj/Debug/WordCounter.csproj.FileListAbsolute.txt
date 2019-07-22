@@ -1,0 +1,15 @@
+C:\Users\perscholas_student\Documents\FunWithList\WordCounter\bin\Debug\mobydick.txt
+C:\Users\perscholas_student\Documents\FunWithList\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\perscholas_student\Documents\FunWithList\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\perscholas_student\Documents\FunWithList\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\perscholas_student\Documents\FunWithList\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Documents\FunWithList\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\perscholas_student\Documents\FunWithList\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\bin\Debug\mobydick.txt
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\obj\Debug\WordCounter.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\perscholas_student\Documents\CSharpExercises\FunWithList\WordCounter\obj\Debug\WordCounter.pdb
