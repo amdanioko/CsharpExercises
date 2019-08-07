@@ -14,18 +14,6 @@ namespace AreaofCircle
             while(TryReadNumber(out double number))
                 Console.WriteLine($"The area is {CalculateCircleArea(number):F4}.");
 
-            //bool finished = false;
-            //while(!finished)
-            //{
-            //    bool success = TryReadNumber(out double number);
-            //    if (success)
-            //    {
-            //        Console.WriteLine($"The area is {CalculateCircleArea(number): F4}.");
-            //    }
-            //    else finished = true;
-            //}
-
-
         }
         static double CalculateCircleArea(double radius)
         {
