@@ -29,10 +29,10 @@ namespace WordCounter
             Console.WriteLine($"The word {searchWord} was found {count} times.");
         }
 
-        static bool PromptForSearchWord(out string searchWord) // Please enter a word to searh for
+        static bool PromptForSearchWord(out string searchWord) // Please enter a word to search for
         {
             Console.Write("Please enter a word to search for: ");
-            searchWord = Console.ReadLine(); // the out parameter is a promise to provide a searcWord
+            searchWord = Console.ReadLine(); // the out parameter is a promise to provide a searchWord
             return !string.IsNullOrWhiteSpace(searchWord);
 
      
